@@ -17,10 +17,10 @@
 
 3. Restore `4.hfs` to the USB's second partition --->  2nd partition becomes bootable "OS X Base System"
 
-# Resize BaseStstem USB Partition
+## Resize BaseStstem USB Partition
 Open [Paragon Partition Manager Free](https://www.paragon-software.com/free/pm-express/) and resize the second partition of the USB drive to the full size allowed.  Don't forget to apply the changes at the end.
 
-# Copy Additional Data
+## Copy Additional Data
 1. Open [TransMac](http://www.acutesystems.com/tmac/tmsetup.exe) and navigate to the `HFS+ Volume/Install macOS High Sierra.app/Contents` folder.  Right click anywhere in the empty space on the RHS pane and select `Copy Here`.
 
 2.  In the next stage, select the `SharedSupport` folder we created earlier as the `Files and Folders to be copied to the Mac Volume`.
