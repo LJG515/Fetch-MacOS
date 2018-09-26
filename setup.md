@@ -1,5 +1,5 @@
 ## Download macOS
-1. Get `FetchMacOS` and place it in a known folder.
+1. Get [FetchMacOS](https://www.insanelymac.com/forum/topic/326366-fetchmacos-a-tool-to-download-macos-on-non-mac-platforms/) and place it in a known folder.
 
 2. Open `Command Prompt` and use `cd` to go to the known folder.
 
